@@ -14,3 +14,5 @@ This project implements a simple Tic Tac Toe game using HTML, CSS, and JavaScrip
 - `index.css`: Styles the game board and form.
 - `index.js`: Handles game logic and interactions.
 
+## Demo
+[!GAME DEMO](https://kundank27.github.io/Tic-Tac-Toe/)
